@@ -18,4 +18,4 @@ PhotoGram.cc PhotoGram.h: This class contains the master list of Photos and a co
 AlbumCreator.cc AlbumCreator.h: Controls the interaction of PhotoGram with the View. Maintains its own list of Photos found during the latest search.
 View.cc View.h: Prints menus, Albums, or Photos, and takes input
 defs.h: defines max array:
-main.cc: creates an albumcreator object.
+main.cc: creates an albumcreator object. 
